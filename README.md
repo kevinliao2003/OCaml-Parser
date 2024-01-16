@@ -67,3 +67,20 @@ Evaluates MicroCaml mutop directive [m] in environment [env], returning a possib
 ## How to Run
 
 To run the interpreter, load the file in an OCaml interpreter and use the provided functions in your code.
+
+## Examples
+
+```ocaml
+(* Example usage of the interpreter *)
+
+let env = [] in
+let expression = Bin
+```
+
+## License
+
+This MicroCaml Interpreter is released under the MIT License.
+
+```css
+Feel free to replace `[MIT License](LICENSE)` with the actual path or URL to your license file.
+```
